@@ -1,3 +1,21 @@
 3rd branch 
 third file created 
 adding to master branch
+<<<<<<< HEAD
+<<<<<<< HEAD
+trying to revert 
+the file to original state
+lets seeeeee
+
+
+wkhfiifeioahgioeahgioehighewtu9wajegotehiogwioty8ejigohetihtigehtihtgehn
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 70483ee (reverting)
+=======
+>>>>>>> b742445 (sndfjkshe)
+=======
+trying to revert 
+the file to original state
+lets seeeeee
+>>>>>>> 70483ee (reverting)
