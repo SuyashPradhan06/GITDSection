@@ -1,10 +1,14 @@
-Suyash Pradhan
+# Suyash Pradhan
 Bangalore
 Ait
 DOne commiting 
 Acharya
+<<<<<<< HEAD
 
 ------------Done!!
 Added a new extra line with new branch|||||||
 3rd branch made
 !
+=======
+Done!!
+>>>>>>> parent of ce7eb04 (File updated)
