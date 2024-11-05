@@ -8,5 +8,8 @@ lets seeeeee
 
 
 wkhfiifeioahgioeahgioehighewtu9wajegotehiogwioty8ejigohetihtigehtihtgehn
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 70483ee (reverting)
+=======
+>>>>>>> b742445 (sndfjkshe)
