@@ -1,9 +1,12 @@
 3rd branch 
 third file created 
 adding to master branch
+<<<<<<< HEAD
 trying to revert 
 the file to original state
 lets seeeeee
 
 
 wkhfiifeioahgioeahgioehighewtu9wajegotehiogwioty8ejigohetihtigehtihtgehn
+=======
+>>>>>>> parent of 70483ee (reverting)
